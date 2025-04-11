@@ -55,10 +55,10 @@ Strava credentials are securely stored in env file, also ensuring the access tok
 ## 🎥 Demo Videos
 
 ### 🔌 Part 1: BLE Functionality Demo
-▶️ [Watch BLE Demo Video](https://drive.google.com/file/d/1zUYXdMYDm_aN8SnMyI8PtqJH4_dRVPH6/view?usp=drive_link)
+▶️ [Watch BLE Demo Video](https://drive.google.com/file/d/1ZIQWaat9RzH-FZmdM8ZbAL7CNAZczDmC/view?usp=drive_link)
 
 ### 🏃 Part 2: Strava Integration Demo
-▶️ [Watch Strava Demo Video](https://drive.google.com/file/d/1ZIQWaat9RzH-FZmdM8ZbAL7CNAZczDmC/view?usp=drive_link)
+▶️ [Watch Strava Demo Video](https://drive.google.com/file/d/1fsOxw3NfIvdLVH6CGJ35ZFHdebr1DDFF/view?usp=drive_link)
 
 ---
 
