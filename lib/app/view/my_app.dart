@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       key: Instance.scaffoldState,
       navigatorObservers: [RouteObserverService()],
       navigatorKey: Instance.navigatorKey,
-      title: 'Realtime Innovations Project',
+      title: 'Strava BLE App',
       home: BlocProvider<StravaBloc>(
         create: (context) => StravaBloc( AppLinks())..add(AuthenticateStravaEvent()),
         child: StravaMainView(),
